@@ -1,2 +1,2 @@
 # gstest-repo
-test for green slate
+Test case for green slate
